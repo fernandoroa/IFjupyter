@@ -1,0 +1,17 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Jupyter notebooks with idiogramFISH examples (IFjupyter)
+
+The goal of IFjupyter is to provide examples (files) to run idiogramFISH in the jupyter environment
+
