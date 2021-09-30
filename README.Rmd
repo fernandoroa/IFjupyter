@@ -15,3 +15,121 @@ knitr::opts_chunk$set(
 
 The goal of IFjupyter is to provide examples (files) to run idiogramFISH in the jupyter environment
 
+<table>
+<tr>
+<th><img src="figures/colab-badge.svg"></th>
+<th><img src="figures/GitHub-Mark-120px-plus.png" height=25 width=25>&emsp;Github&emsp;&emsp;</th>
+<th><img src="figures/GitHub-Mark-120px-plus.png" height=25 width=25>&emsp;Raw</th>
+</tr>
+<tr>
+<td>
+[3 Minimal examples](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/03-minimal.ipynb){target='_blank'}&emsp;
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/03-minimal.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/03-minimal.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[4 Plotting chromosomes](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/04-plotting.ipynb){target='_blank'}&emsp;
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/04-plotting.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/04-plotting.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[5 Multiple OTUs](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/05-multiple.ipynb){target='_blank'}    
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/05-multiple.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/05-multiple.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[6 Changing units](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/06-units.ipynb){target='_blank'}  
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/06-units.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/06-units.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[7 GISH](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/07-gish.ipynb){target='_blank'}  
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/07-gish.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/07-gish.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[8 Groups](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/08-groups.ipynb){target='_blank'}  
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/08-groups.ipynb){target='_blank'}
+</td>
+
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/08-groups.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[9 Circular Plots](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/09-circular.ipynb){target='_blank'}  
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/09-circular.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/09-circular.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[10 Plotting alongside phylogeny](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/10-phylogeny.ipynb){target='_blank'}&emsp;
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/10-phylogeny.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/10-phylogeny.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[11 Citrus](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/11-citrushelp.ipynb){target='_blank'}  
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/11-citrushelp.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/11-citrushelp.ipynb){target='_blank'}
+</td>
+</tr>
+<tr>
+<td>
+[12 Human Karyotype](https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/12-human.ipynb){target='_blank'}  
+</td>
+<td>
+[<kbd>link</kbd>](https://github.com/ferroao/IFjupyter/blob/main/12-human.ipynb){target='_blank'}
+</td>
+<td>
+[<kbd>&emsp;Raw</kbd>](https://github.com/ferroao/IFjupyter/raw/main/12-human.ipynb){target='_blank'}
+</td>
+</tr>
+</table>
