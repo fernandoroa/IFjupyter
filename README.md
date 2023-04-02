@@ -20,112 +20,172 @@ in the jupyter environment
 </tr>
 <tr>
 <td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/03-minimal.ipynb" target="_blank">3 Minimal examples</a> 
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/03-minimal.ipynb"
+target="_blank">3 Minimal examples</a> 
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/03-minimal.ipynb" target="_blank"><kbd>link</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/03-minimal.ipynb"
+target="_blank"><kbd>link</kbd></a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/03-minimal.ipynb" target="_blank"><kbd> Raw</kbd></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/04-plotting.ipynb" target="_blank">4 Plotting chromosomes</a> 
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/04-plotting.ipynb" target="_blank"><kbd>link</kbd></a>
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/04-plotting.ipynb" target="_blank"><kbd> Raw</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/03-minimal.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/05-multiple.ipynb" target="_blank">5 Multiple OTUs</a>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/04-plotting.ipynb"
+target="_blank">4 Plotting chromosomes</a> 
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/05-multiple.ipynb" target="_blank"><kbd>link</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/04-plotting.ipynb"
+target="_blank"><kbd>link</kbd></a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/05-multiple.ipynb" target="_blank"><kbd> Raw</kbd></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/06-units.ipynb" target="_blank">6 Changing units</a>
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/06-units.ipynb" target="_blank"><kbd>link</kbd></a>
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/06-units.ipynb" target="_blank"><kbd> Raw</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/04-plotting.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/07-gish.ipynb" target="_blank">7 GISH</a>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/05-multiple.ipynb"
+target="_blank">5 Multiple OTUs</a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/07-gish.ipynb" target="_blank"><kbd>link</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/05-multiple.ipynb"
+target="_blank"><kbd>link</kbd></a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/07-gish.ipynb" target="_blank"><kbd> Raw</kbd></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/08-groups.ipynb" target="_blank">8 Groups</a>
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/08-groups.ipynb" target="_blank"><kbd>link</kbd></a>
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/08-groups.ipynb" target="_blank"><kbd> Raw</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/05-multiple.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/09-circular.ipynb" target="_blank">9 Circular Plots</a>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/06-units.ipynb"
+target="_blank">6 Changing units</a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/09-circular.ipynb" target="_blank"><kbd>link</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/06-units.ipynb"
+target="_blank"><kbd>link</kbd></a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/09-circular.ipynb" target="_blank"><kbd> Raw</kbd></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/10-phylogeny.ipynb" target="_blank">10 Plotting alongside phylogeny</a> 
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/10-phylogeny.ipynb" target="_blank"><kbd>link</kbd></a>
-</td>
-<td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/10-phylogeny.ipynb" target="_blank"><kbd> Raw</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/06-units.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/11-citrushelp.ipynb" target="_blank">11 Citrus</a>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/07-gish.ipynb"
+target="_blank">7 GISH</a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/11-citrushelp.ipynb" target="_blank"><kbd>link</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/07-gish.ipynb"
+target="_blank"><kbd>link</kbd></a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/11-citrushelp.ipynb" target="_blank"><kbd> Raw</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/07-gish.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://colab.research.google.com/github/ferroao/IFjupyter/blob/main/12-human.ipynb" target="_blank">12 Human Karyotype</a>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/08-groups.ipynb"
+target="_blank">8 Groups</a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/blob/main/12-human.ipynb" target="_blank"><kbd>link</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/08-groups.ipynb"
+target="_blank"><kbd>link</kbd></a>
 </td>
 <td>
-<a href="https://github.com/ferroao/IFjupyter/raw/main/12-human.ipynb" target="_blank"><kbd> Raw</kbd></a>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/08-groups.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
+</td>
+</tr>
+<tr>
+<td>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/09-circular.ipynb"
+target="_blank">9 Circular Plots</a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/09-circular.ipynb"
+target="_blank"><kbd>link</kbd></a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/09-circular.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
+</td>
+</tr>
+<tr>
+<td>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/10-phylogeny.ipynb"
+target="_blank">10 Plotting alongside phylogeny</a> 
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/10-phylogeny.ipynb"
+target="_blank"><kbd>link</kbd></a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/10-phylogeny.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
+</td>
+</tr>
+<tr>
+<td>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/11-citrushelp.ipynb"
+target="_blank">11 Citrus</a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/11-citrushelp.ipynb"
+target="_blank"><kbd>link</kbd></a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/11-citrushelp.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
+</td>
+</tr>
+<tr>
+<td>
+<a
+href="https://colab.research.google.com/github/fernandoroa/IFjupyter/blob/main/12-human.ipynb"
+target="_blank">12 Human Karyotype</a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/blob/main/12-human.ipynb"
+target="_blank"><kbd>link</kbd></a>
+</td>
+<td>
+<a
+href="https://github.com/fernandoroa/IFjupyter/raw/main/12-human.ipynb"
+target="_blank"><kbd> Raw</kbd></a>
 </td>
 </tr>
 </table>
